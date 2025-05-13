@@ -1,6 +1,6 @@
 # Yeswanth-Koti-Portfolio
 
-📍 **Live Demo:** [yeswanthkoti.com](https://my-portfolio-a3c97.web.app/)  
+📍 **Live Demo:** [yeswanthkoti.com](https://yeswanthkoti-26.web.app/)  
 
 ![image](https://github.com/user-attachments/assets/d6bec12e-2bd7-448a-b190-f7c4703a7985) 
 
